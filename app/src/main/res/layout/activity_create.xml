@@ -15,5 +15,6 @@
         android:layout_marginRight="8dp"
         android:text="Button"
         app:layout_constraintEnd_toEndOf="parent"
-        tools:layout_editor_absoluteY="46dp" />
+        tools:layout_editor_absoluteY="46dp"
+        tools:ignore="MissingConstraints" />
 </android.support.constraint.ConstraintLayout>
