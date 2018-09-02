@@ -6,5 +6,7 @@
     <string name="Btn4">"  設定"</string>
     <string name="Logo">"Logo"</string>
     <string name="BtnBG">"壁紙を変更する"</string>
+    <string name="BtnBG2">"アルバムから選ぶ"</string>
+    <string name="BtnBG3">"色を変更する"</string>
 
 </resources>
